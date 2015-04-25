@@ -6,9 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
 nav ul a,
-nav .brand-logo {
-  color: #444;
+nav {
+  color: white;
+}
+
+.brand-logo {
+  font-family: Pacifico;
 }
 
 p {
